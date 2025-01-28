@@ -5,7 +5,7 @@
  #  What is the OSI & TCP Model?
 OSI  (Open Systems Interconnection) Model
 TCP  (Transmission Control protocol/Internet Protocol) Model
- are fremeworks that explain how data travels over a network,such as the internet.The divide the communication process into different layers,each with a specific role.
+ are frameworks that explain how data travels over a network,such as the internet.The divide the communication process into different layers,each with a specific role.
 # 7 Layers of OSI Model
 1. Physical Layer - Sends raw data as electrical signals or light.
    Example: Wi-Fi, Ethernet cabels,fiber optics.
@@ -17,4 +17,4 @@ TCP  (Transmission Control protocol/Internet Protocol) Model
     Example: A router forwarding data based on IP addresses.
 
 4. Transport Layer - Ensures reliable data delivery with error checking and flow control.
-    Example: TCP (relible data),UPD (fast but no guarantee).
+    Example: TCP (reliable data),UPD (fast but no guarantee).
