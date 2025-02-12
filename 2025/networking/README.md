@@ -113,7 +113,7 @@ Port: 123
 
 Syncs time across systems.
 
-###📍Important Protocols and Ports Required for DevOps!
+### 📍Important Protocols and Ports Required for DevOps!
 
 1. Git over SSH (Git Source Control)
 
