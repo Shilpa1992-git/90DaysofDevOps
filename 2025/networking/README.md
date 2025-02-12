@@ -1,4 +1,4 @@
-#🛜Networking
+# Heading 1🛜Networking
  OSI & TCP IP Models?
 
 *️⃣ OSI (Open Systems Interconnection) Model TCP (Transmission Control protocol/Internet Protocol) Model are framework that explain how data travels over a network, such as the internet. The divide the communication process into different layers, each with a specific role.
