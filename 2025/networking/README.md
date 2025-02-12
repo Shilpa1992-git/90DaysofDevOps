@@ -51,7 +51,7 @@
 
 (Example: ( HTTP,FTP, emails).
 
-📍 Networking Protocol and Ports!
+## 📍 Networking Protocol and Ports!
 
 1️⃣ HTTP (Hypertext Transfer Protocol)
 
@@ -113,7 +113,7 @@ Port: 123
 
 Syncs time across systems.
 
-📍Important Protocols and Ports Required for DevOps!
+###📍Important Protocols and Ports Required for DevOps!
 
 1. Git over SSH (Git Source Control)
 
